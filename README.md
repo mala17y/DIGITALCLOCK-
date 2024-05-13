@@ -1,1 +1,7 @@
 # DIGITALCLOCK ;!
+
+***MINI PROJECT!!!***
+
+> DIGITAL CLOCK:
+
+
